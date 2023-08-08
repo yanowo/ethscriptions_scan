@@ -6,7 +6,7 @@ API source：[https://docs.ethscriptions.com/api-docs/api-overview](https://docs
 2. Check Node.js vesion
 `node -v`
 
-3. cd ethscriptions_scan folder and install the necessary dependencies. `npm install` and `npm install axios`
+3. cd ethscriptions_scan folder and install the necessary dependencies. `npm install`
 
 4. Final run `node ethscriptions_scan.js `
 
